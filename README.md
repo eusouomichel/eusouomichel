@@ -4,16 +4,24 @@ Me chamo Michel Miléski e possuo uma experiência (+15 anos) como programador f
 
 <br />
 
+##### Certificações
+
+- 🏅 PMI - ***ALfamidia***
+- 📱 Apple Foundations - ***PUC-RS by Apple***
+- 📘 Front-end Facebook - ***Digital House by Facebook***
+- 🎖 Cresça com o Google: Marketing Digital, Carreira DEV - ***Google***
+- 🏆 Top Empreendedor 2013 - ***Top OF BUSINESS Brasil***
+
 ##### AGORA
 
-- 🌐 Estudando para Certificação SCRUM
-- 🎙 Desenvolvendo um workshop sobre programação para novos profissionais
+- 🌐  Estudando para Certificação SCRUM
+- 🎙  Desenvolvendo um workshop sobre programação para novos profissionais
 
 ##### BIO
 
-- 🏢 Clientes em desenvolvimento: ***ANPCONT***, ***SBAP***, ***FEPERGS***
-- ⚙️ Diariamente utilizo: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 💬 Ping me sobre **php**, **design**, **desenvolvimento** ;)
+- 🏢  Clientes em desenvolvimento: ***ANPCONT***, ***SBAP***, ***FEPERGS***
+- ⚙️  Diariamente utilizo: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 💬  Ping me sobre **php**, **design**, **desenvolvimento** ;)
 
 <br />
 
