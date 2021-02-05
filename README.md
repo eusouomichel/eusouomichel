@@ -6,7 +6,7 @@ Me chamo Michel Miléski e possuo uma experiência (+15 anos) como programador f
 
 ##### Certificações
 
-- 🏅 PMI - ***ALfamidia***
+- 🏅 PMI - ***Alfamidia***
 - 📱 Apple Foundations - ***PUC-RS by Apple***
 - 📘 Front-end Facebook - ***Digital House by Facebook***
 - 🎖 Cresça com o Google: Marketing Digital, Carreira DEV - ***Google***
