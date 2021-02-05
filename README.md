@@ -15,10 +15,10 @@ Me chamo Michel Miléski e possuo uma experiência (+15 anos) como programador f
 
 - 🌐  Estudando para Certificação SCRUM
 - 🎙  Desenvolvendo um workshop sobre programação para novos profissionais
-
-##### BIO
-
 - 🏢  Clientes em desenvolvimento: ***ANPCONT***, ***SBAP***, ***FEPERGS***
+
+##### OUTROS
+
 - ⚙️  Diariamente utilizo: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 💬  Ping me sobre **php**, **design**, **desenvolvimento** ;)
 
