@@ -3,7 +3,7 @@
 Me chamo Michel Miléski e possuo uma experiência (+15 anos) como programador fullstack, moro no Sul do Brasil onde trabalho remotamente para diversos clientes ao redor do Brasil e também alguns do exterior.
 
 
-- <div>
+<div>
 ##### CERTIFICAÇÕES
 
 - 🏅 PMI - ***Alfamidia***
@@ -22,11 +22,11 @@ Me chamo Michel Miléski e possuo uma experiência (+15 anos) como programador f
 
 - ⚙️  Diariamente utilizo: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 💬  Ping me sobre **php**, **design**, **desenvolvimento** ;)
-  </div>
+</div>
   
-- <div>
+<div>
  <img src="https://github.com/eusouomichel/eusouomichel/blob/main/programmer-hapy.png?raw=true" width="300px">
-  </div> 
+</div> 
 
 <br />
 
