@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm Michel!
+## Hi, I'm Michel!
 
 <div>
     <img width="250" align='right' src="https://github.com/eusouomichel/eusouomichel/blob/main/programmer-hapy.png?raw=true" >
