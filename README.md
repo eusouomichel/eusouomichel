@@ -18,7 +18,6 @@ Me chamo Michel Miléski e possuo uma experiência (+15 anos) como programador f
 
 - 🌐  Estudando para Certificação SCRUM
 - 🎙  Desenvolvendo um workshop sobre programação para novos profissionais
-- 🏢  Clientes em desenvolvimento: ***ANPCONT***, ***SBAP***, ***FEPERGS***
 
 ##### OUTROS
 
